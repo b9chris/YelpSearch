@@ -1,4 +1,3 @@
-// A generic onclick callback function.
 function yelpSearch(info, tab) {
 	chrome.tabs.create({
 		url: 'http://www.yelp.com/search?find_desc=' + encodeURIComponent(info.selectionText)
