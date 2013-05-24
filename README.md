@@ -16,7 +16,7 @@ There's also a 19x19 format mentioned in the documentation that does not appear 
 
 ## Screenshot
 
-You probably shouldn't post an Extension without a screenshot. The upload process will tell you it can be either 1280x800, or 640x480. It lies. It will reject anything that isn't 1280x800. But - the actual window it shows these screenshots in is 640x480. Solution? Take a screenshot, crop/scale it to 640x480, then increase the Canvas Size to 1280x800 with transparent borders all around and the 640x480 image centered. ss1280x800.png is a clear example of this (ss.png being the original image it's based on).
+You probably shouldn't post an Extension without a screenshot. The upload process will tell you it can be either 1280x800, or 640x480. It lies. It will reject anything that isn't 1280x800. But - the actual window it shows these screenshots in is 644x404. Solution? Take a screenshot, crop/scale it to 644x404, then Scale it to 1280x800. ss1280x800.png is a clear example of this (ss.png being the original image it's based on).
 
 ## Manifest.json
 
